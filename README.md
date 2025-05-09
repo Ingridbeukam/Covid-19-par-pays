@@ -44,6 +44,18 @@
 ### 💉 Santé publique
 - Suivi du taux de létalité
 
+###📌 Résumé de l’analyse COVID-19
+L’analyse des données COVID-19 par pays montre qu’il n’existe pas de corrélation directe entre la taille de la population et le nombre de cas confirmés ou de décès. Certains pays très peuplés ont été moins touchés proportionnellement que d'autres plus petits.
+
+États-Unis : avec une population de 338 millions, on dénombre 103 millions de cas confirmés, 1 million de décès, soit 3 493 décès par million d'habitants.
+
+Inde : malgré une population dépassant 1 milliard, le pays affiche 45 millions de cas, 534 000 décès, soit 374 décès par million.
+
+Russie : avec 145 millions d'habitants, elle recense 24 millions de cas, 403 000 décès, soit 2 769 décès par million.
+
+✅ Conclusion
+Ces chiffres suggèrent que d'autres facteurs que la taille de la population influencent fortement l'impact de la pandémie : efficacité des systèmes de santé, politiques de dépistage, âge moyen de la population, transparence des données, ou encore mesures de confinement. Ainsi, comparer les pays uniquement par population n’est pas suffisant pour comprendre la gravité réelle de la pandémie dans chaque région.
+
 ### 📊 Indicateurs dynamiques
 - KPI dynamiques avec filtres pays
 - Analyse temporelle personnalisable
