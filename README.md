@@ -49,6 +49,7 @@
 - Analyse temporelle personnalisable
 
 ###📌 Résumé de l’analyse COVID-19
+
 L’analyse des données COVID-19 par pays montre qu’il n’existe pas de corrélation directe entre la taille de la population et le nombre de cas confirmés ou de décès. Certains pays très peuplés ont été moins touchés proportionnellement que d'autres plus petits.
 
 États-Unis : avec une population de 338 millions, on dénombre 103 millions de cas confirmés, 1 million de décès, soit 3 493 décès par million d'habitants.
