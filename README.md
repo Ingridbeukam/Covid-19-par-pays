@@ -44,6 +44,10 @@
 ### 💉 Santé publique
 - Suivi du taux de létalité
 
+### 📊 Indicateurs dynamiques
+- KPI dynamiques avec filtres pays
+- Analyse temporelle personnalisable
+
 ###📌 Résumé de l’analyse COVID-19
 L’analyse des données COVID-19 par pays montre qu’il n’existe pas de corrélation directe entre la taille de la population et le nombre de cas confirmés ou de décès. Certains pays très peuplés ont été moins touchés proportionnellement que d'autres plus petits.
 
@@ -56,6 +60,4 @@ Russie : avec 145 millions d'habitants, elle recense 24 millions de cas, 403 000
 ✅ Conclusion
 Ces chiffres suggèrent que d'autres facteurs que la taille de la population influencent fortement l'impact de la pandémie : efficacité des systèmes de santé, politiques de dépistage, âge moyen de la population, transparence des données, ou encore mesures de confinement. Ainsi, comparer les pays uniquement par population n’est pas suffisant pour comprendre la gravité réelle de la pandémie dans chaque région.
 
-### 📊 Indicateurs dynamiques
-- KPI dynamiques avec filtres pays
-- Analyse temporelle personnalisable
+
